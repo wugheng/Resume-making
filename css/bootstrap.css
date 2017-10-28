@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+    margin: 10px 5pt 15pt 20px;
+}
+h2{
+    text-align: center;
+    color:black;
+    font-size: 25px;
+    font-weight:bolder;
+}
+h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color:#ac2925;
+}
+h4{display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;}
+img{
+    margin:0 42% 0 42%;
+    align:center;
+}
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+.list-unstyled > li{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.list-group{
+    background-color: white;
+}
+.line{width:2px;
+height:40px;
+background-color: #ac2925;
+margin:0 auto;
+}
+.box{
+    width:40px;
+}
+.year{
+    text-align:center;
+}
+h5{
+    display: block;
+    font-size: 1.10em;
+    -webkit-margin-before: 0.9em;
+    -webkit-margin-after: 0.9em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+.education{
+    background-color: #c1e2b3;
+}
+.progress{font-size: 1.0em;
+    -webkit-margin-before: 0.9em;
+    -webkit-margin-after: 0.9em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;}
+.list-group{
+    display: block;
+    font-size: 1.0em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold; }
+p1{font-size: 1.0em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;}
